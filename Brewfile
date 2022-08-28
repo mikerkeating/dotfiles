@@ -5,13 +5,14 @@ tap "homebrew/cask"
 tap "homebrew/bundle"
 
 # development
-tap "docker"
-tap "nvm"
-tap "awscli"
-tap "aws-sam-cli"
+# none
 
 # 'brew install'
 brew "mas"
+brew "nvm"
+brew "docker"
+brew "awscli"
+brew "git"
 
 # 'brew install --cask'
 
