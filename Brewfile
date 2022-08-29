@@ -20,6 +20,7 @@ brew "docker"
 brew "awscli"
 brew "git"
 brew "aws-sam-cli"
+brew "gatsby-cli"
 
 #########################
 # 'brew install --cask'
@@ -43,6 +44,8 @@ cask "visual-studio-code"
 cask "github"
 cask "postman"
 cask "iterm2"
+cask "docker"
+cask "transmit"
 
 # comms
 cask "skype"
@@ -55,3 +58,4 @@ cask "whatsapp"
 
 # office
 cask "microsoft-office"
+cask "asana"
